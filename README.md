@@ -1,10 +1,12 @@
 # The thirdweb Art Engine [![Mentioned in Awesome thirdweb](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/warengonzaga/awesome-thirdweb)
 
-> **Note**: This is under development, kindly use the legacy in the meantime.
+> **Note**: This is under development, kindly use the [legacy version](https://github.com/warengonzaga/thirdweb-art-engine-legacy) in the meantime.
 
 [![creator](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![release](https://img.shields.io/github/release/warengonzaga/thirdweb-art-engine.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-art-engine/releases) [![star](https://img.shields.io/github/stars/warengonzaga/thirdweb-art-engine.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-art-engine/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/thirdweb-art-engine.svg?style=flat-square)](https://github.com/warengonzaga/thirdweb-art-engine/blob/main/license)
 
 [![repo banner](.github/img/repo_banner.jpg)](https://github.com/warengonzaga/thirdweb-art-engine)
+
+The official art engine for the thirdweb community.
 
 ## 🐛 Issues
 
