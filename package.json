@@ -1,0 +1,20 @@
+{
+  "name": "thirdweb-art-engine",
+  "version": "1.0.0",
+  "description": "The official art engine for the thirdweb community.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warengonzaga/thirdweb-art-engine.git"
+  },
+  "keywords": [],
+  "author": "Waren Gonzaga <opensource@warengonzaga.com> <https://warengonzaga.com>",
+  "license": "GPL-3",
+  "bugs": {
+    "url": "https://github.com/warengonzaga/thirdweb-art-engine/issues"
+  },
+  "homepage": "https://github.com/warengonzaga/thirdweb-art-engine#readme"
+}
