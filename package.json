@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/warengonzaga/thirdweb-art-engine/issues"
   },
-  "homepage": "https://github.com/warengonzaga/thirdweb-art-engine#readme"
+  "homepage": "https://github.com/warengonzaga/thirdweb-art-engine#readme",
+  "engines": {
+    "node": ">=20.14.0"
+  }
 }
